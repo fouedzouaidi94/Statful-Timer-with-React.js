@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.myTimer {
+  border: 1px solid pink;
+  border-radius: 5px;;
+  width: 500px;
+  text-align: center;
+  margin: 100px 300px;
+  -webkit-box-shadow: 7px 18px 5px 0px rgba(230,214,230,0.59);
+-moz-box-shadow: 7px 18px 5px 0px rgba(230,214,230,0.59);
+box-shadow: 7px 18px 5px 0px rgba(230,214,230,0.59);
+}
+
+button {
+  border-radius: 3px;
+  width: 20%;
+  margin: 10px;
+}
